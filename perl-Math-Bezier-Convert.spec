@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define		pdir	Math
-%define		pnam	Bezier-Convert
+%define	pdir	Math
+%define	pnam	Bezier-Convert
 Summary:	Math::Bezier::Convert - convert cubic and quadratic bezier each other
 Summary(pl):	Math::Bezier::Convert - konwersja krzywych Beziera stopnia 2 i 3 na inne
 Name:		perl-Math-Bezier-Convert

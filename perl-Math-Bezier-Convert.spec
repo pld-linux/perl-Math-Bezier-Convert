@@ -10,7 +10,8 @@ Summary(pl):	Math::Bezier::Convert - konwersja krzywych Beziera stopnia 2 i 3 na
 Name:		perl-Math-Bezier-Convert
 Version:	0.01
 Release:	2
-License:	GPL/Artistic
+# same as perl
+License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	59416829a665fd948faf2782a73837f4

@@ -5,7 +5,7 @@
 %include	/usr/lib/rpm/macros.perl
 %define		pdir	Math
 %define		pnam	Bezier-Convert
-Summary:	Math::Bezier::Convert - Convert cubic and quadratic bezier each other
+Summary:	Math::Bezier::Convert - convert cubic and quadratic bezier each other
 Summary(pl):	Math::Bezier::Convert - konwersja krzywych Beziera stopnia 2 i 3 na inne
 Name:		perl-Math-Bezier-Convert
 Version:	0.01

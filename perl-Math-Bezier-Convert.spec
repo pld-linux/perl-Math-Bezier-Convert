@@ -6,7 +6,7 @@
 %define		pdir	Math
 %define		pnam	Bezier-Convert
 Summary:	Math::Bezier::Convert - convert cubic and quadratic bezier each other
-Summary(pl):	Math::Bezier::Convert - konwersja krzywych Beziera stopnia 2 i 3 na inne
+Summary(pl.UTF-8):   Math::Bezier::Convert - konwersja krzywych Beziera stopnia 2 i 3 na inne
 Name:		perl-Math-Bezier-Convert
 Version:	0.02
 Release:	1
@@ -25,8 +25,8 @@ Math::Bezier::Convert provides functions to convert quadratic bezier
 to cubic, to approximate cubic bezier to quadratic, and to approximate
 cubic and quadratic bezier to polyline.
 
-%description -l pl
-Modu³ Math::Bezier::Convert udostêpnia funkcje do przeliczania
+%description -l pl.UTF-8
+ModuÅ‚ Math::Bezier::Convert udostÄ™pnia funkcje do przeliczania
 kwadratowych krzywych Beziera na kubiczne, aproksymacji kubicznych
 krzywych Beziera kwadratowymi oraz aproksymacji kubicznych i
 kwadratowych krzywych Beziera wielomianami.

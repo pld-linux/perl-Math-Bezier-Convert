@@ -9,7 +9,7 @@ Summary:	Math::Bezier::Convert - convert cubic and quadratic bezier each other
 Summary(pl.UTF-8):	Math::Bezier::Convert - konwersja krzywych Beziera stopnia 2 i 3 na inne
 Name:		perl-Math-Bezier-Convert
 Version:	0.02
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
